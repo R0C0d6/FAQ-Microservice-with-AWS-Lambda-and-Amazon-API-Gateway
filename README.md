@@ -1,6 +1,4 @@
 # Amazon API Gateway & Lambda FAQ Microservice
-A hands-on lab project demonstrating how to build a simple **FAQ Microservice** using **AWS Lambda** and **Amazon API Gateway**. This project is designed for beginners to learn serverless development, microservices, and REST API design with practical, step-by-step instructions.
-
 
 ## Overview
 Modern applications are moving toward serverless architectures and microservices. Instead of managing monolithic systems, applications are split into small, independent services that scale easily and are cost-efficient.
