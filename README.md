@@ -154,5 +154,3 @@ Try WebSockets and private APIs.
 
 ## License
 This project is part of an AWS hands-on lab. Educational use only.
-
-Would you like me to also **add badges (build, license, AWS, etc.) and a "Quick Start Deployment" section with AWS CLI commands** to make it look even more like a professional GitHub project?
